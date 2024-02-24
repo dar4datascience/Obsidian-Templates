@@ -1,0 +1,54 @@
+---
+date: <% tp.date.now("YYYY-MM-DD") %>
+title: Meeting Notes - [Meeting Name]
+tags: [meeting, notes]
+type_of_meeting: [meeting type]
+---
+
+# Meeting Notes - [Meeting Name]
+
+
+## Attendees
+
+LINK TEAMS MEETING HERE?
+
+
+
+## Agenda
+
+1. **Welcome and Introductions**
+2. **Review Previous Meeting Minutes**
+3. **Agenda Item 1:**
+   - [Discussion points]
+4. **Agenda Item 2:**
+   - [Discussion points]
+5. **Agenda Item 3:**
+   - [Discussion points]
+6. **Next Steps and Action Items**
+   - [Action item 1]
+   - [Action item 2]
+   - [Action item 3]
+   - ...
+
+## Discussion Points
+
+## Action Items
+- [ ] Action item 1
+- [ ] Action item 2
+- [ ] Action item 3
+- ...
+
+## Notes & Decisions
+
+## Follow-Up
+- [Follow-up action 1]
+- [Follow-up action 2]
+- [Follow-up action 3]
+- ...
+
+## Additional Resources
+- [Link 1]
+- [Link 2]
+- ...
+
+---
